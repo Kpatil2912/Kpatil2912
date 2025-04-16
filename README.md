@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋 I'm Kiran Patil</h1>
 <p align="center">
   🔹 SDET • Test Automation Enthusiast • AppSec Curious • AI Explorer  
 </p>
