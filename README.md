@@ -17,6 +17,24 @@
 
 ---
 
+## 🔧 Featured Repositories
+
+### 1. [Playwright Automation Scripts](https://github.com/Kpatil2912/Playwright-typescript-tests)
+End-to-end test automation scripts using Playwright for web testing.
+
+- **Tech Stack**: JavaScript, TypeScript, Playwright.
+- **Description**: Web automation scripts for functional testing.
+
+---
+
+### 2. [WebDriverIO AXIOS TypeScript Automation](https://github.com/Kpatil2912/e2e-WebdriverIO-AXIOS)
+End-to-end test automation scripts using WebDriverIO for web testing.
+
+- **Tech Stack**: JavaScript, TypeScript, WebDriverIO.
+- **Description**: Web automation scripts for functional testing.
+
+---
+
 ## 🧠 Tech Stack
 
 ### 💻 Languages
